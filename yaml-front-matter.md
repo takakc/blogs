@@ -1,6 +1,7 @@
 ---
 title: PHPでmarkdownのyamlヘッダを読み込む
 created_at: 2019/12/10
+tags: laravel,vue
 description: laravel,vue
 file_name: yaml-front-matter
 ---

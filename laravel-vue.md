@@ -1,6 +1,7 @@
 ---
 title: laravelでvuejs利用
 created_at: 2019/11/24
+tags: laravel,vue
 description: laravel,vue
 file_name: laravel-vue
 ---

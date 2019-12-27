@@ -1,6 +1,7 @@
 ---
 title: laravelでmarkdownファイルを元にブログを作成
 created_at: 2019/11/27
+tags: laravel,vue
 description: laravel,vue
 file_name: markdown-blog
 ---
